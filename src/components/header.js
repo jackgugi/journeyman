@@ -20,7 +20,7 @@ const Header = () => (
       		<a class="nav-link">Home</a>
       	</Link>
         <Link to="about">
-          <a class="nav-link">About</a>
+          <a class="nav-link">The Team</a>
         </Link>
       	<Link to="">
       		<a class="nav-link">Our Work</a>

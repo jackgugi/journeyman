@@ -9,7 +9,7 @@ export default ({ children }) => (
     	{children}
     </div>
     <div id="footer">
-    	<p id="foot-left">Copyright 2019 | Codesoul</p>
+    	<p id="foot-left">Copyright 2019 | © Codesoul</p>
     	<p id="foot-right">Keith Greer & Jack Gugi</p>
     </div>
   </div>
