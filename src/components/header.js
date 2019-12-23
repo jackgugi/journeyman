@@ -9,7 +9,7 @@ import phone from "../images/phone.png"
 const Header = () => (
   <div id="header">
     <div id="header-inner">
-      <Link to="index">
+      <Link to="">
         <div id="logo-wrap">
     		  <img id="logo" src={logo} alt="Codesoul logo" />
         </div>
