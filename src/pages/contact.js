@@ -8,7 +8,7 @@ export default () => (
     <p>07975 658 423</p>
     <p>jackgugi5213@hotmail.co.uk</p>
 
-    <form name="contact" netlify>
+    <form name="contact" netlify action="/contact">
       <h2>Send us a message</h2>
 	  <p>
 	    <input type="text" name="name" placeholder="Name" />
