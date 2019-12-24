@@ -8,13 +8,13 @@ export default () => (
     <p>07975 658 423</p>
     <p>jackgugi5213@hotmail.co.uk</p>
 
-    <form name="contact" netlify action="/contact" netlify-honeypot="bot-field">
+    <form name="contact" netlify>
       <h2>Send us a message</h2>
 	  <p>
-	    <input type="text" name="name" placeholder="Name" />
+	    <label>Name <input type="text" name="name" /></label>
 	  </p>
 	  <p>
-	    <input type="email" name="email" placeholder="Email" />
+	    <label>Email <input type="email" name="email" /></label>
 	  </p>
 	  <p>
 	    <button type="submit">Send</button>
