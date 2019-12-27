@@ -109,4 +109,17 @@ body {
 #foot-right {
     text-align: right;
 }
-/****GLOBAL****/
+/****GLOBAL end****/
+
+
+/****CONTACT****/
+#contact-form label {
+    width: 100%;
+    display: block;
+}
+
+#contact-form input, #contact-form textarea {
+    width: 100%;
+    margin: 5px 0 15px;
+}
+/****CONTACT end****/
